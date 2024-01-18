@@ -26,3 +26,7 @@ The available endpoints for this application are:---
 | SPRING_ELASTICSEARCH_REST_PASSWORD  | Password for elasticsearch database              |
 
 ## GitOps
+
+
+AWS_ACCESS_KEY_ID=ASIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
