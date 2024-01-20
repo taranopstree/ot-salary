@@ -30,3 +30,4 @@ The available endpoints for this application are:---
 
 AWS_ACCESS_KEY_ID=ASIAIOSFODNN7EXAMPLE
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+password=root
