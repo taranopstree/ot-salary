@@ -25,9 +25,13 @@ The available endpoints for this application are:---
 | SPRING_ELASTICSEARCH_REST_USERNAME  | Username for elasticsearch database              |
 | SPRING_ELASTICSEARCH_REST_PASSWORD  | Password for elasticsearch database              |
 
-## GitOps
+## Gitleakes
 
 
 AWS_ACCESS_KEY_ID=ASIAIOSFODNN7EXAMPLE
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 password=root
+https://bitbucket.org/site/oauth2/authorize?client_id=xxxxxxx&response_type=code
+database.url=jdbc:mysql://mysql.okts.tk:3306/employeedb
+database.user=root
+database.password=password
